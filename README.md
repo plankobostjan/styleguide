@@ -12,9 +12,7 @@ style guidelines we use for Google code. If you are modifying a project that
 originated at Google, you may be pointed to this page to see the style guides
 that apply to that project.
 
-This project holds the [Python Style Guide][py], [Shell Style Guide][sh]. This project
-also contains [cpplint][cpplint], a tool to assist with style guide compliance,
-and [google-c-style.el][emacs], an Emacs settings file for Google style.
+This project holds the [Python Style Guide][py], [Shell Style Guide][sh].
 
 The style guides in this project are licensed under the CC-By 3.0 License,
 which encourages you to share these documents.
